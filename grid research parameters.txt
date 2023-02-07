@@ -1,0 +1,11 @@
+n_epoch：5-100,  step 5
+
+n_factor: 10-150, step 10
+
+lr_all: 0.001-0.01, step 0.001
+
+reg_all:  0.01-0.1, step 10 & 0.04-0.4 step 0.04
+
+k: 30-50, step 5
+
+mink: 1-5, step 1
